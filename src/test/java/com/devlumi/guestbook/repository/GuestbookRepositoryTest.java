@@ -2,6 +2,7 @@ package com.devlumi.guestbook.repository;
 
 import com.devlumi.guestbook.entity.Guestbook;
 
+
 import com.devlumi.guestbook.entity.QGuestbook;
 import com.querydsl.core.BooleanBuilder;
 import com.querydsl.core.types.dsl.BooleanExpression;
